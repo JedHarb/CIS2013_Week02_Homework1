@@ -43,6 +43,6 @@ int main()
 		}
 	}
 	*/
-	cout << "End of program";
+	cout << "End of program.";
 	return 0;	
 }
